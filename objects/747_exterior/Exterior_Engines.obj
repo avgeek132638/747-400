@@ -7991,7 +7991,7 @@ ANIM_begin
 
 	ANIM_trans	  12.9803    -0.7976   29.2948	  12.9803   -0.7976   29.2948	0 0	no_ref
 	ANIM_trans	 -0.04   0   0	 0.04   0   0	-1 1	laminar/B747/engine/vibration_position[3]
-	ANIM_rotate_begin	  -0.0002    0.0440   -0.9990	sim/flightmodel2/wing/wing_tip_deflection_deg[0]
+	ANIM_rotate_begin	  -0.0002    0.0440   -0.9990	laminar/B747/wingflextesting
 		ANIM_rotate_key	-99.9	  3.14
 		ANIM_rotate_key	-13.5	  3.14
 		ANIM_rotate_key	-12.8	  1.75
@@ -8008,7 +8008,7 @@ ANIM_end
 ANIM_begin
 	ANIM_trans	 -13.0001   -0.7976   29.2948	 -13.0001   -0.7976   29.2948	0 0	no_ref
 	ANIM_trans	 0.04   0   0	 -0.04   0   0	1 -1	laminar/B747/engine/vibration_position[0]
-	ANIM_rotate_begin	  -0.0002   -0.0440    0.9990	sim/flightmodel2/wing/wing_tip_deflection_deg[0]
+	ANIM_rotate_begin	  -0.0002   -0.0440    0.9990	laminar/B747/wingflextesting
 		ANIM_rotate_key	-99.9	  3.14
 		ANIM_rotate_key	-13.5	  3.14
 		ANIM_rotate_key	-12.8	  1.75

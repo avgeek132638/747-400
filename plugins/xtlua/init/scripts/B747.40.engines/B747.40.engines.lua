@@ -98,6 +98,7 @@ B747CMD_ai_engines_quick_start		= deferred_command("laminar/B747/ai/engines_quic
 
 
 B747DR_engine_fire				= deferred_dataref("laminar/B747/annunciators/engine_fires", "array[5)")
+B747DR_wings				= deferred_dataref("laminar/B747/wingflextesting", "number")
 
 
 

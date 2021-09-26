@@ -18738,7 +18738,7 @@ IDX	14593
 
 ANIM_begin
 	ANIM_trans	  12.9803   -0.7976   29.2948	  12.9803   -0.7976   29.2948	0 0	no_ref
-	ANIM_rotate_begin	  -0.0002    0.0440   -0.9990	sim/flightmodel2/wing/wing_tip_deflection_deg[0]
+	ANIM_rotate_begin	  -0.0002    0.0440   -0.9990	laminar/B747/wingflextesting
 		ANIM_rotate_key	-99.9	  3.14
 		ANIM_rotate_key	-13.5	  3.14
 		ANIM_rotate_key	-12.8	  1.75
@@ -18748,7 +18748,7 @@ ANIM_begin
 	ANIM_rotate_end
 	ANIM_begin
 		ANIM_trans	   8.4564    0.5181    7.5543	   8.4564    0.5181    7.5543	0 0	no_ref
-		ANIM_rotate_begin	   0.0509    0.0193   -0.9985	sim/flightmodel2/wing/wing_tip_deflection_deg[0]
+		ANIM_rotate_begin	   0.0509    0.0193   -0.9985	laminar/B747/wingflextesting
 			ANIM_rotate_key	-99.9	  3.00
 			ANIM_rotate_key	-13.5	  3.00
 			ANIM_rotate_key	-12.8	  1.70
@@ -18921,7 +18921,7 @@ ANIM_begin
 ANIM_end
 ANIM_begin
 	ANIM_trans	 -13.0001   -0.7976   29.2948	 -13.0001   -0.7976   29.2948	0 0	no_ref
-	ANIM_rotate_begin	  -0.0002   -0.0440    0.9990	sim/flightmodel2/wing/wing_tip_deflection_deg[0]
+	ANIM_rotate_begin	  -0.0002   -0.0440    0.9990	laminar/B747/wingflextesting
 		ANIM_rotate_key	-99.9	  3.14
 		ANIM_rotate_key	-13.5	  3.14
 		ANIM_rotate_key	-12.8	  1.75
@@ -18931,7 +18931,7 @@ ANIM_begin
 	ANIM_rotate_end
 	ANIM_begin
 		ANIM_trans	  -8.4564    0.5181    7.5543	  -8.4564    0.5181    7.5543	0 0	no_ref
-		ANIM_rotate_begin	   0.0509   -0.0193    0.9985	sim/flightmodel2/wing/wing_tip_deflection_deg[0]
+		ANIM_rotate_begin	   0.0509   -0.0193    0.9985	laminar/B747/wingflextesting
 			ANIM_rotate_key	-99.9	  3.00
 			ANIM_rotate_key	-13.5	  3.00
 			ANIM_rotate_key	-12.8	  1.70
